@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**adityakumar-gupta/adityakumar-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student | 3rd Year
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Java and Data Structures & Algorithms
+- HTML, CSS and JavaScript
+- React and Web Development
+
+### 2026 Goals
+- Build real-world projects
+- Improve problem-solving skills
+- Prepare for software development internships
+
+### Tech Stack
+HTML | CSS | JavaScript | Java | React (Learning)
+
+### Projects
+🚀 Projects coming soon!
